@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# React Mini prjects mixed in one app 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Including:
+Real time clock
+Cards with faous figures , used props for their data
+Cards with enojies and their meanings 
+Froms for registration/login
+Destructuring obejects/arrays and redner details
+To Do List that can add and delete items
 
 ## Available Scripts
 
